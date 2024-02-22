@@ -1,5 +1,5 @@
 
-# Amazon Bedrock Streaming Chat #
+# Amazon Bedrock Query Intent #
 
 🛑 &#x1F449; NOTICE: Use at your own risk! &#x1F448; 🛑
 
